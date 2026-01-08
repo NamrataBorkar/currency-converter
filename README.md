@@ -2,6 +2,7 @@ Currency Converter 💱
 <br>
 A simple currency converter web app built using HTML, CSS, and JavaScript.
 <br>
+<br>
 Features:
 <br>
 - Convert between multiple currencies
