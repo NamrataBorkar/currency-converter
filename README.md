@@ -2,34 +2,34 @@ Currency Converter 💱
 <br>
 A simple currency converter web app built using HTML, CSS, and JavaScript.
 <br>
-Features
+Features:
 <br>
 - Convert between multiple currencies
- <br>
+<br>
 - Real-time exchange rates
- <br>
+<br>
 - Country flags support
-  <br>
+<br>
 - User-friendly UI
-  <br>
+<br>
 <br>
 Technologies Used:
- <br>
+<br>
 - HTML
-  <br>
+<br>
 - CSS
-  <br>
+<br>
 - JavaScript
-  <br>
+<br>
 - Currency API
-  <br>
+<br>
 <br>
 How to Run:
- <br>
+<br>
 1. Clone the repository
-   <br>
+<br>
 2. Open `index.html` in your browser
-   <br>
+<br>
 <br>
 API Used
 <br>
