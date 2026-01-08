@@ -4,7 +4,7 @@ A simple currency converter web app built using HTML, CSS, and JavaScript.
 
 ---
 
-## ✨ Features
+##  Features
 - Convert between multiple currencies
 - Real-time exchange rates
 - Country flags support
@@ -12,7 +12,7 @@ A simple currency converter web app built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML
 - CSS
 - JavaScript
@@ -20,11 +20,11 @@ A simple currency converter web app built using HTML, CSS, and JavaScript.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🔗 API Used
+##  API Used
 https://github.com/fawazahmed0/currency-api
